@@ -6,3 +6,8 @@
 - Trabajo finalizado y entregado al profesor. **Ing. Osvaldo Giordanini**
 
 `Equipo: Los Terreneitor.`
+
+**Integrantes:**
+
+- Silvia Daniela Delgado
+- Mario Gabriel Calcagni
